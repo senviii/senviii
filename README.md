@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saanvi Mahika</h1>
 <h3 align="center">A Computer Science student at SRMIST, currently I am learning FrontEnd development.</h3>
-
-- 🔭 I’m currently working on *CropConnect*
-
 - 🌱 I’m currently learning *Backend Frameworks Node.js – JavaScript runtime for building scalable backend services. Express.js – Web framework for handling routing and server-side logic. Mongoose – ODM library for MongoDB, enabling schema-based modeling.
 - 🌿 Environment Management dotenv – Loads environment variables from a .env file into process.env. Development Tools Nodemon – Automatically restarts the server on code changes (developer tool). npm – Package manager to handle project dependencies.
 -  🛢 Database MongoDB Atlas – Cloud-hosted NoSQL database used for storing farmer data. 🧪 API Testing Postman / Thunder Client (VS Code Extension) – For testing API endpoints (GET, POST, etc.).*
